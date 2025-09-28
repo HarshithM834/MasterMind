@@ -1,6 +1,6 @@
 # 🤟 Advanced ASL Gesture Detection System
 
-A sophisticated real-time American Sign Language (ASL) recognition application featuring AI-powered gesture detection, modern GUI design, and comprehensive training capabilities.
+A sophisticated real-time American Sign Language (ASL) recognition application featuring AI-powered gesture detection, modern GUI design, and comprehensive training capabilities. Please install the other libraries, plugins, and addons, that are needed.
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13.0-orange.svg)
