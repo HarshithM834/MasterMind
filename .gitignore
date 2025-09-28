@@ -55,7 +55,8 @@ unvoiced_resources/
 *.h5
 *.pkl
 *.pb
-*.txt
+# Allow requirements files
+!requirements*.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
